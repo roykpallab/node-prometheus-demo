@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "express": "^4.16.1",
-    "prom-client" : "11.5.3"
+    "prom-client": "11.5.3"
   }
 }
